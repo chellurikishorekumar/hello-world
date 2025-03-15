@@ -162,6 +162,9 @@
     </pluginManagement>
   </build>
 
+  <artifactId>webapp</artifactId>
+  <packaging>war</packaging>
+         
   <dependencyManagement>
     <dependencies>
       <dependency>
